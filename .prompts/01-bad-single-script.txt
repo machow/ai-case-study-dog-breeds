@@ -1,0 +1,5 @@
+@/scripts/@/raw-data/@/README.md@/data/ 
+
+The README describes the goal of the analysis. I want to take the breed_traits data, and then from the wikipedia page that lists dog breeds, pull a thumbnail and a description of each breed.
+
+Add python scripts to `scripts` that do this.

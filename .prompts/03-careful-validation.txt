@@ -1,0 +1,21 @@
+@/scripts/ @/raw-data/ @/README.md @/data/ 
+
+The README describes the goal of the analysis. I want to take the breed_traits data, and then from the wikipedia page that lists dog breeds, pull a thumbnail and a description of each breed.
+
+Add python scripts to `scripts` that do this.
+
+WHAT I NEED FROM YOU:
+
+* Ask questions to clarify any pieces of work that are unclear
+* Use the uv CLI to add packages and create your venv
+* Break the work into steps
+  - Validate each step as you go
+  - Preview sources and data where needed
+  - Produce logs so it's clear what's failing
+  - Save intermediate results for debugging and improvement
+* Give a plan for what you want to do first, for confirmation
+* You can ignore linter errors
+
+DO NOT JUST WRITE AND THEN RUN SCRIPTS, CHECK WEBSITES AND DATA BEFOREHAND.
+YOU CANNOT GUESS WHAT WILL BE IN A SOURCE AND THEN WRITE A SCRIPT.
+YOU NEED TO OPEN AND INSPECT WEB PAGES BEFORE ATTEMPTING TO SCRAPE THEM.
